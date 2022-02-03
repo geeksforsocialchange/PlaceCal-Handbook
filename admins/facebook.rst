@@ -12,11 +12,11 @@ events!*
 You will need a PlaceCal user account to follow this guide. Get in touch
 with a PlaceCal admin if you don’t have one.
 
-{% hint style=“warning” %} Jan 2020: We’ve had reports that Facebook has
-added additional verification steps for new accounts registering
-Developer accounts and you may have to upload a scan of your
-identification to create an app as described below. We’re seeing if
-there’s anything we can do about this. {% endhint %}
+.. NOTE:: Jan 2020: We’ve had reports that Facebook has added additional
+          verification steps for new accounts registering Developer
+          accounts and you may have to upload a scan of your
+          identification to create an app as described below. We’re
+          seeing if there’s anything we can do about this.
 
 Create a Facebook App
 ---------------------
