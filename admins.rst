@@ -2,7 +2,8 @@ Administrator Guide
 ===================
 .. toctree::
    :hidden:
-   
+
+   admins/supported-sources
    admins/google-calendar
    admins/outlook-365
    admins/mac-calendar

@@ -19,8 +19,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'PlaceCal Handbook'
-copyright = '2017-2020, Place Health Technology CIC'
-author = 'Dr Kim Foale, Catherine Heath'
+copyright = '2017-2022, Place Health Technology CIC'
+author = 'Dr Kim Foale, Catherine Heath, Ivan Kocienski, Alexandria O\'Leary'
 master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
@@ -28,6 +28,9 @@ master_doc = 'index'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+#
+# recommonmark                - markup format
+# sphinx_rtd_theme            - theme for the site
 extensions = ['recommonmark', 'sphinx_rtd_theme']
 
 # Add any paths that contain templates here, relative to this directory.
