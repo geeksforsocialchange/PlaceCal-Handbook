@@ -1,7 +1,7 @@
 On Boarding
 ===========
 
-Placecal has a lot of moving parts to line up before it can be worked on locally by a developer.
+PlaceCal has a lot of moving parts to line up before it can be worked on locally by a developer.
 
 Prerequisites
 
