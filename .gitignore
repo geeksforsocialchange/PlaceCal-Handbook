@@ -15,3 +15,5 @@ _build
 *.epub
 *.mobi
 *.pdf
+
+.vscode
