@@ -3,6 +3,7 @@
 ```{toctree}
 :hidden: true
 
+admins/supported-sources
 admins/google-calendar
 admins/outlook-365
 admins/mac-calendar
@@ -36,7 +37,7 @@ people.
 Unlike other platforms such as Facebook or Eventbrite (which require you
 to use their own app), PlaceCal works directly using the software you
 already have in your organisation. This means it can take a little bit
-longer to get set up – but once you’re rolling everything you update is
+longer to get set up – but once you’re rolling everything you update is
 imported automatically into PlaceCal.
 
 Before getting started with any new software, think about how it might
@@ -48,8 +49,8 @@ email](mailto:support@placecal.org). It’s possible that you already
 have everything we need work with. We can instruct your IT person or
 team how to import the information directly from your website.
 
-If you already have a partial online calendar that has some – but not
-all – of your events, we can use that as a starting point. Maybe you use
+If you already have a partial online calendar that has some – but not
+all – of your events, we can use that as a starting point. Maybe you use
 Facebook for all your big events, but don’t include smaller the
 day-to-day events as it’s too much hassle.
 
