@@ -9,7 +9,7 @@
 * [Configure a Partner](how-to/configure-a-partner.md)
 * [Add a User](how-to/add-a-user.md)
 * [Add a Calendar](how-to/add-a-calendar.md)
-* [Add a site](how-to/add-a-site.md)
+* [Add a Site](how-to/add-a-site.md)
 * [Configure a site](how-to/configure-a-site.md)
 
 ## Reference
