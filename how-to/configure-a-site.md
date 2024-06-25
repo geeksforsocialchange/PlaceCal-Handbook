@@ -1,4 +1,4 @@
-# Configure a site
+# Configure a Site
 
 If you're a Site admin you can configure the public-facing elements of a PlaceCal site, including what it's called, its description, cover image, as well as other settings about how PlaceCal functions and appears to the public by navigating to the **Edit site** page.
 
@@ -47,6 +47,8 @@ Choose a colour scheme for your PlaceCal site. This changes the accent colour of
 ### Logo
 
 Upload a .svg or .png file to display in the top left of your PlaceCal site. This should be a simple image which represents your Site. When setting up a new site, the PlaceCal team will make a logo using your site's name, which should be uploaded here by default.&#x20;
+
+Logos should have no whitespace above and below them -- please crop to the exact height of the image or it'll look smaller than it should.
 
 ### Footer logo
 
