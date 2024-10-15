@@ -12,6 +12,7 @@ By default PlaceCal supports [iCal/.ics](ical-generic.md) and [JSON-LD](json-ld-
 * [Meetup](meetup.md)
 * [Outlook 365](outlook-365.md)
 * [OutSavvy](outsavvy.md)
+* [Resident Advisor](resident-advisor-ra.md) (RA)
 * [Squarespace](squarespace.md)
 * [Ticketsolve](ticketsolve.md)
 

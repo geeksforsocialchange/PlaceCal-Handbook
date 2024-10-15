@@ -25,6 +25,7 @@
   * [Meetup](reference/supported-calendar-sources/meetup.md)
   * [Outlook 365](reference/supported-calendar-sources/outlook-365.md)
   * [OutSavvy](reference/supported-calendar-sources/outsavvy.md)
+  * [Resident Advisor (RA)](reference/supported-calendar-sources/resident-advisor-ra.md)
   * [Squarespace](reference/supported-calendar-sources/squarespace.md)
   * [Ticketsolve](reference/supported-calendar-sources/ticketsolve.md)
 * [Glossary](reference/glossary/README.md)
