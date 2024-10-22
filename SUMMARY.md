@@ -11,6 +11,7 @@
 * [Add a Calendar](how-to/add-a-calendar.md)
 * [Add a Site](how-to/add-a-site.md)
 * [Configure a Site](how-to/configure-a-site.md)
+* [Add a Tag (Partnership)](how-to/add-a-tag-partnership.md)
 
 ## Reference
 

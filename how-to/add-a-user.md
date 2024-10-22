@@ -10,19 +10,33 @@ Depending on the permissions your account has, you will be able to associate the
 
 If you think you should have different account permissions, get in touch with the Organiser of your PlaceCal site (contact information can be found on the homepage of your PlaceCal site) or [contact the PlaceCal team](mailto:support@placecal.org).&#x20;
 
-## Partners
+### Partners
 
 Start typing the name of a partner you'd like to let this User edit and choose it from the drop-down list. On saving, this User will be added as Partner admin for any Partners entered here.&#x20;
 
-## Neighbourhoods
+### Neighbourhoods
 
 Start typing the Neighbourhood you'd like to let this User manage and choose it from the drop-down list. On saving, this User will be added as Neighbourhood admin for any Neighbourhoods entered here.&#x20;
 
-## Partnerships
+### Partnerships
 
 Start typing the Partnership you'd like to let this User manage and choose it from the drop-down list. On saving, this User will be added as Partnership admin for any Partnerships entered here.&#x20;
 
-## Role
+### Role
 
 Choose what level of permissions this account should have.&#x20;
+
+## Adding Organisers
+
+Organisers require a specific set of permissions in order to be able to administrate the PlaceCal sites they are responsible for.&#x20;
+
+Organiser permissions should include the **Neighbourhood** covered by their site, and any **Partnership** tags relevant to the specific site. They should have the **Role** of Citizen.&#x20;
+
+Unless they specifically manage a Partner, they don't need to have individual **Partners** associated with their account.&#x20;
+
+
+
+
+
+
 
