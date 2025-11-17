@@ -24,7 +24,7 @@ If the Partner has a street address where they operate from which is publicly ac
 
 ### Service Areas
 
-Choose one or more Service Area(s) from the dropdown. These will usually be the general area the Partner organises events in. If the Partner only organises events in one Ward, try and use that rather than District level information to keep this field as specific and useful as possible. Depending on [how the PlaceCal site is configured](configure-a-site.md) this will display as either a Ward or District badge in the list of Partners on each site this Partner appears on.&#x20;
+Choose one or more Service Area(s) from the dropdown. These will usually be the general area the Partner organises events in. If the Partner only organises events in one Ward, try and use that rather than District level information to keep this field as specific and useful as possible. Depending on [how the PlaceCal site is configured](configure-a-site/) this will display as either a Ward or District badge in the list of Partners on each site this Partner appears on.&#x20;
 
 Once you've filled the name and either an **Address** or **Service Area** you will be able to save the Partner. Once you hit save, the Partner will appear on any PlaceCal Neighbourhood sites covering the area the Partner is based in.&#x20;
 

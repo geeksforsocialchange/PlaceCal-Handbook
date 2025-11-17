@@ -8,7 +8,7 @@ If you think you should have different account permissions, get in touch with th
 
 ### Name
 
-This field acts as the title of the calendar. It should be short and descriptive, for example 'PlaceCal Norwich' for a [Neighbourhood](../reference/glossary/neighbourhoods.md) site or 'Climate Justice North East' for a [Partnership](../reference/glossary/partnerships.md) site.&#x20;
+This field acts as the title of the calendar. It should be short and descriptive, for example 'PlaceCal Norwich' for a [Neighbourhood](../../reference/glossary/neighbourhoods.md) site or 'Climate Justice North East' for a [Partnership](../../reference/glossary/partnerships.md) site.&#x20;
 
 ### Place name
 
@@ -20,11 +20,13 @@ This is a short description (just a few words) which can appear with the name of
 
 ### URL
 
-Depending on your account permissions, this field will likely not be editable. This is configured by the PlaceCal team when [setting up a site](add-a-site.md). This shows the URL which houses the public-facing PlaceCal site. This is the URL you should share when directing people to your PlaceCal Site.&#x20;
+Depending on your account permissions, this field will likely not be editable. This is configured by the PlaceCal team when [setting up a site](../add-a-site.md). This shows the URL which houses the public-facing PlaceCal site. This is the URL you should share when directing people to your PlaceCal Site.&#x20;
+
+
 
 ### Slug
 
-Depending on your account permissions, this field will likely not be editable. This is configured by the PlaceCal team when [setting up a site](add-a-site.md).
+Depending on your account permissions, this field will likely not be editable. This is configured by the PlaceCal team when [setting up a site](../add-a-site.md).
 
 ### Hero text
 
@@ -56,7 +58,7 @@ Upload a .svg or .png file to display in the footer of your PlaceCal site. This 
 
 ### Hero image
 
-Upload a .jpg, .jpeg or .png file to display on the homepage of your PlaceCal site, and in the public listings on the PlaceCal homepage if your site is [published](configure-a-site.md#published). This can be any image which represents your site.&#x20;
+Upload a .jpg, .jpeg or .png file to display on the homepage of your PlaceCal site, and in the public listings on the PlaceCal homepage if your site is [published](./#published). This can be any image which represents your site.&#x20;
 
 #### Hero image credit
 
@@ -72,11 +74,11 @@ Depending on your account permissions you might not be able to edit all of the f
 
 ### Main neighbourhood
 
-This defines the area covered by your PlaceCal site. It should be as accurate and specific as possible. This is configured by the PlaceCal team when [setting up a site](add-a-site.md).
+This defines the area covered by your PlaceCal site. It should be as accurate and specific as possible. This is configured by the PlaceCal team when [setting up a site](../add-a-site.md).
 
 ### Neighbourhood information display
 
-This setting tells PlaceCal how much detail to show on the list of Partners associated with your site. By default this is set to [Ward](../reference/glossary/wards.md), but for sites which cover larger areas it might be useful to set this to display the [District](../reference/glossary/districts.md).&#x20;
+This setting tells PlaceCal how much detail to show on the list of Partners associated with your site. By default this is set to [Ward](../../reference/glossary/wards.md), but for sites which cover larger areas it might be useful to set this to display the [District](../../reference/glossary/districts.md).&#x20;
 
 ### Other neighbourhoods to include
 
