@@ -19,6 +19,6 @@ This requires server access! We can do this for you when your domain is added.
 {% endhint %}
 
 ```
-dokku domains:add placecal mysubdomain.placecal.org
+dokku domains:add placecal mysubdomain.mydomain.com
 dokku letsencrypt:enable placecal
 ```
