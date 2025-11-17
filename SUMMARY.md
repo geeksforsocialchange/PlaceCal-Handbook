@@ -10,7 +10,7 @@
 * [Add a User](how-to/add-a-user.md)
 * [Add a Calendar](how-to/add-a-calendar.md)
 * [Add a Site](how-to/add-a-site.md)
-* [Configure a Site](how-to/configure-a-site/README.md)
+* [Configure a Site](how-to/configure-a-site.md)
   * [Add a custom domain name to your site](how-to/configure-a-site/add-a-custom-domain-name-to-your-site.md)
 * [Add a Tag (Partnership)](how-to/add-a-tag-partnership.md)
 
