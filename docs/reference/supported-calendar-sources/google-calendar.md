@@ -6,9 +6,9 @@ To import events from a Google calendar PlaceCal needs the **Public address in i
 
 You can find the **Public address in iCal format** on each Google calendar's Settings page under the subheading **Integrate calendar**. Note that the calendar needs to be set to **Make available to public** in order for PlaceCal to be able to access its events.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>The link PlaceCal needs in the URL field when adding a Calendar</p></figcaption></figure>
+![The link PlaceCal needs in the URL field when adding a Calendar](../../assets/image (3).png)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Setting a calendar to be available to the public</p></figcaption></figure>
+![Setting a calendar to be available to the public](../../assets/image (1).png)
 
 Instructions on setting up a Google Calendar can be found in [Google's official documentation](https://support.google.com/calendar/answer/37095?hl=en).&#x20;
 
