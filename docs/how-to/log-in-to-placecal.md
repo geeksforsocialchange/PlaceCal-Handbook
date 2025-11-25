@@ -8,4 +8,4 @@ If you forget your password you can click 'Forgot password' to send an email wit
 
 There is also a link to log in at the very bottom of the [PlaceCal homepage](https://placecal.org).&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-05 at 11.40.55.png" alt=""><figcaption></figcaption></figure>
+![](../assets/Screenshot 2024-06-05 at 11.40.55.png)
