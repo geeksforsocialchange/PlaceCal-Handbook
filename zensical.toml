@@ -7,6 +7,8 @@
 # ============================================================================
 
 [project]
+repo_url = "https://github.com/geeksforsocialchange/PlaceCal-Handbook"
+edit_uri = "edit/main/docs/"
 
 # The site_name is shown in the page header and the browser window title
 #
@@ -17,7 +19,7 @@ site_name = "PlaceCal Handbook"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A manual for PlaceCal"
+site_description = "The manual for PlaceCal"
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -34,7 +36,7 @@ site_author = "GFSC"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-Copyright &copy; 2025 The authors
+Copyright &copy; 2025 GFSC Community Interest Company
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -122,13 +124,13 @@ features = [
     # will generate an edit button for the page. This works for common
     # repository hosting services.
     # https://zensical.org/docs/setup/repository/#code-actions
-    #"content.action.edit",
+    "content.action.edit",
 
     # If you have a repository configured and turn feature this on, Zensical
     # will generate a button that allows the user to view the Markdown
     # code for the current page.
     # https://zensical.org/docs/setup/repository/#code-actions
-    #"content.action.view",
+    "content.action.view",
 
     # Code annotations allow you to add an icon with a tooltip to your
     # code blocks to provide explanations at crucial points.
