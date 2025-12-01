@@ -4,7 +4,7 @@ PlaceCal is a community calendar software [designed to work with communities](ex
 
 PlaceCal is designed to reduce the admin burden on Partners by pulling information from places it's already being published, [working with common calendar and ticketing platforms](reference/supported-calendar-sources/) to stay up to date. It increases access and visibility of community activity by presenting event and Partner information in a clear format which doesn't require a login and is sorted chronologically. PlaceCal is designed to make it as easy and quick as possible to find out what's happening in your community, while [resisting the capture and funneling of community infrastructure into big tech walled gardens](explanation/resisting-walled-gardens-and-big-tech-silos.md).
 
-PlaceCal was originally developed by [Geeks for Social Change Studio](https://gfsc.studio) and is now maintained by the [Geeks for Social Change Community](https://handbook.placecal.org/), largely focusing on communities based in the UK (for now).
+PlaceCal was originally developed by [Geeks for Social Change Studio](https://gfsc.studio) and is now maintained by the [Geeks for Social Change Community](https://gfsc.community/), largely focusing on communities based in the UK (for now).
 
 You can see a demonstration of it below.
 
