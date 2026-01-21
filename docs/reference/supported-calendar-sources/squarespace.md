@@ -2,13 +2,9 @@
 
 PlaceCal can import events created using the default Squarespace events block. Squarespace has [official documentation on adding events to your Squarespace site](https://support.squarespace.com/hc/en-us/articles/206543837-Events-pages).&#x20;
 
-PlaceCal can import events using the default Squarespace URL of sites which have an events block. If you're using the default Squarespace URL, simply navigate to your events page and copy the page URL. You should then enter this URL in the URL field when [adding a Calendar](../../how-to/add-a-calendar.md) to PlaceCal.&#x20;
+To import events from Squarespace, find the listings view of your site. This looks something like [this](https://www.partisancollective.net/events/listing/) or [this](https://www.vfdalston.com/our-events) - the calendar grid view will not work.
 
-Custom domain names **do not work** with PlaceCal. If you have a custom domain associated with your Squarespace site, you can still import your events by using the slug from your site in combination with your default Squarespace URL.&#x20;
-
-The slug is the part of a URL after and including the `/`.&#x20;
-
-To import events from a Squarespace site using a custom domain, navigate to the events page of your site and copy the slug (usually something like `/events`). Paste this somewhere you can refer to it later. Then find the default Squarespace site URL (usually something like `https://bumblebee-raspberry-5hgh.squarespace.com`). You now want to combine the two to make one URL by putting the slug at the end of your default Squarespace site URL (in this example, making `https://bumblebee-raspberry-5hgh.squarespace.com/events`). You should enter this combined URL in the URL field when [adding a Calendar](../../how-to/add-a-calendar.md) to PlaceCal.&#x20;
+Paste that URL into the calendar field and you should be good to go!
 
 ## Information PlaceCal imports from Squarespace
 
