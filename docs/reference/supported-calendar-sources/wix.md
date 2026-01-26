@@ -1,5 +1,7 @@
 # Wix Events
 
+> ⚠️ **BDS Warning**: Wix is on the [BDS (Boycott, Divestment and Sanctions) list](https://boycottwix.org/) due to its ties to the Israeli government and military. We support this importer because many community organisations already use Wix and have limited technical capacity to migrate. **We recommend using alternative platforms where possible**, such as [iCal-compatible calendars](ical-generic.md), [Eventbrite](eventbrite.md), or self-hosted solutions.
+
 PlaceCal can import events from Wix websites that use the Wix Events feature. Wix has [official documentation on adding events to your Wix site](https://support.wix.com/en/article/wix-events-adding-and-setting-up-events).
 
 ## How to import from Wix
