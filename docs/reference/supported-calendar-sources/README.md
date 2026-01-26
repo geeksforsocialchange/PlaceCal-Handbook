@@ -6,15 +6,15 @@ PlaceCal can import events from a variety of calendar and ticketing platforms. O
 
 ### 🥇 Gold - Stable
 
-Gold integrations use official APIs or standard formats (iCal, RSS, JSON-LD). These are the most reliable and unlikely to break.
+Gold integrations use official APIs or standard formats (iCal, JSON-LD). These are the most reliable and unlikely to break.
 
 ### 🥈 Silver - Semi-stable
 
-Silver integrations use structured data but may occasionally require maintenance. They have some official support or use stable data formats embedded in pages.
+Silver integrations use structured data from platforms that embed standard formats, but the way we access them may occasionally require maintenance.
 
 ### 🥉 Bronze - Fragile
 
-Bronze integrations scrape data from web pages without an official API or feed. These may break if the platform changes their website structure. We maintain these for community organisations who have limited ability to migrate platforms, but recommend Gold or Silver sources where possible.
+Bronze integrations scrape data from web pages without an official API or standard feed. These may break if the platform changes their website structure. We maintain these for community organisations who have limited ability to migrate platforms, but recommend Gold or Silver sources where possible.
 
 ---
 
@@ -25,6 +25,7 @@ Bronze integrations scrape data from web pages without an official API or feed. 
 | Source | Format | Notes |
 |--------|--------|-------|
 | [iCal/ICS (generic)](ical-generic.md) | iCal standard | Universal calendar format |
+| [JSON-LD (generic)](json-ld-generic.md) | JSON-LD standard | Structured data in web pages |
 | [Google Calendar](google-calendar.md) | iCal | Widely used, reliable |
 | [iCloud Calendar](icloud-calendar.md) | iCal | Apple calendar service |
 | [Outlook 365](outlook-365.md) | iCal | Microsoft calendar service |
@@ -34,7 +35,6 @@ Bronze integrations scrape data from web pages without an official API or feed. 
 
 | Source | Format | Notes |
 |--------|--------|-------|
-| [JSON-LD (generic)](json-ld-generic.md) | JSON-LD | Structured data in web pages |
 | [Eventbrite](eventbrite.md) | JSON-LD | Popular ticketing platform |
 | [Meetup](meetup.md) | JSON-LD | Community events platform |
 | [Dice.fm](dice.fm.md) | JSON-LD | Music events platform |
