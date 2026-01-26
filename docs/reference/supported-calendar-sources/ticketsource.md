@@ -1,5 +1,7 @@
 # TicketSource
 
+> 🥉 **Bronze Integration** - This is a [fragile integration](README.md#-bronze---fragile) that scrapes data from web pages. It may break if TicketSource changes their website structure.
+
 PlaceCal can import events from TicketSource venue pages. TicketSource is a UK-based ticketing platform used by many theatres, arts centres, and community venues.
 
 ## How to import from TicketSource
@@ -30,10 +32,3 @@ PlaceCal imports from venue pages, not individual event pages. Make sure you use
 ### Multiple time slots
 
 If an event has multiple performances or time slots, PlaceCal will import each one as a separate event with its own date and time.
-
-### Fragile importer
-
-Like other web-scraping importers, TicketSource does not provide a public API or feed. PlaceCal extracts event data from the page structure. This means:
-
-* The importer may require updates if TicketSource changes their website
-* If your events stop importing, please contact us so we can investigate
