@@ -1,5 +1,7 @@
 # Wix Events
 
+> 🥉 **Bronze Integration** - This is a [fragile integration](README.md#-bronze---fragile) that scrapes data from web pages. It may break if Wix changes their website structure.
+
 > ⚠️ **BDS Warning**: Wix is on the [BDS (Boycott, Divestment and Sanctions) list](https://boycottwix.org/) due to its ties to the Israeli government and military. We support this importer because many community organisations already use Wix and have limited technical capacity to migrate. **We recommend using alternative platforms where possible**, such as [iCal-compatible calendars](ical-generic.md), [Eventbrite](eventbrite.md), or self-hosted solutions.
 
 PlaceCal can import events from Wix websites that use the Wix Events feature. Wix has [official documentation on adding events to your Wix site](https://support.wix.com/en/article/wix-events-adding-and-setting-up-events).
@@ -30,16 +32,7 @@ PlaceCal pulls the following from Wix events:
 * URL
 * Event image
 
-## Important notes
-
-### Fragile importer
-
-Unlike standard calendar formats (iCal, RSS), Wix does not expose a public events feed. PlaceCal extracts event data from the page internal JSON structure. This means:
-
-* The importer may require updates if Wix changes their internal data format
-* If your events stop importing, please contact us so we can investigate
-
-### Finding your events page URL
+## Finding your events page URL
 
 Your events page URL should be the page that shows a list of upcoming events. This is typically something like:
 
