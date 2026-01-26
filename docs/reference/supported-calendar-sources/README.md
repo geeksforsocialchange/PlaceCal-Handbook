@@ -20,35 +20,23 @@ Bronze integrations scrape data from web pages without an official API or standa
 
 ## List of Supported Sources
 
-### 🥇 Gold - Stable
-
-| Source | Format | Notes |
-|--------|--------|-------|
-| [iCal/ICS (generic)](ical-generic.md) | iCal standard | Universal calendar format |
-| [JSON-LD (generic)](json-ld-generic.md) | JSON-LD standard | Structured data in web pages |
-| [Google Calendar](google-calendar.md) | iCal | Widely used, reliable |
-| [iCloud Calendar](icloud-calendar.md) | iCal | Apple calendar service |
-| [Outlook 365](outlook-365.md) | iCal | Microsoft calendar service |
-| [Airtable](airtable.md) | iCal | Database with calendar export |
-
-### 🥈 Silver - Semi-stable
-
-| Source | Format | Notes |
-|--------|--------|-------|
-| [Eventbrite](eventbrite.md) | JSON-LD | Popular ticketing platform |
-| [Meetup](meetup.md) | JSON-LD | Community events platform |
-| [Dice.fm](dice.fm.md) | JSON-LD | Music events platform |
-| [OutSavvy](outsavvy.md) | JSON-LD | Ticketing platform |
-| [Ticketsolve](ticketsolve.md) | JSON-LD | Legacy, limited testing |
-
-### 🥉 Bronze - Fragile
-
-| Source | Method | Notes |
-|--------|--------|-------|
-| [TicketSource](ticketsource.md) | Web scraping | UK ticketing platform |
-| [Squarespace](squarespace.md) | Web scraping | Website builder |
-| [Resident Advisor](resident-advisor-ra.md) | Web scraping | Music events platform |
-| [Wix](wix.md) | Web scraping | ⚠️ [BDS listed](https://boycottwix.org/) - see page for details |
+| Source | Tier | Format | Notes |
+|--------|------|--------|-------|
+| [Airtable](airtable.md) | 🥇 Gold | iCal | Database with calendar export |
+| [Dice.fm](dice.fm.md) | 🥈 Silver | JSON-LD | Music events platform |
+| [Eventbrite](eventbrite.md) | 🥈 Silver | JSON-LD | Popular ticketing platform |
+| [Google Calendar](google-calendar.md) | 🥇 Gold | iCal | Widely used, reliable |
+| [iCal/ICS (generic)](ical-generic.md) | 🥇 Gold | iCal | Universal calendar format |
+| [iCloud Calendar](icloud-calendar.md) | 🥇 Gold | iCal | Apple calendar service |
+| [JSON-LD (generic)](json-ld-generic.md) | 🥇 Gold | JSON-LD | Structured data in web pages |
+| [Meetup](meetup.md) | 🥈 Silver | JSON-LD | Community events platform |
+| [Outlook 365](outlook-365.md) | 🥇 Gold | iCal | Microsoft calendar service |
+| [OutSavvy](outsavvy.md) | 🥈 Silver | JSON-LD | Ticketing platform |
+| [Resident Advisor](resident-advisor-ra.md) | 🥉 Bronze | Web scraping | Music events platform |
+| [Squarespace](squarespace.md) | 🥉 Bronze | Web scraping | Website builder |
+| [TicketSource](ticketsource.md) | 🥉 Bronze | Web scraping | UK ticketing platform |
+| [Ticketsolve](ticketsolve.md) | 🥈 Silver | JSON-LD | Legacy, limited testing |
+| [Wix](wix.md) | 🥉 Bronze | Web scraping | ⚠️ [BDS listed](https://boycottwix.org/) |
 
 ---
 
