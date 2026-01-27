@@ -1,8 +1,8 @@
 # WordPress
 
-There are many WordPress calendar plugins available. PlaceCal currently supports sites using [The Events Calendar](https://theeventscalendar.com/) plugin (also known as Tribe Events), which is one of the most popular options.
+There are many WordPress calendar plugins available. PlaceCal currently supports sites using [The Events Calendar](https://theeventscalendar.com/) plugin (also known as Tribe Events), which is one of the most popular options. This uses our [generic iCal importer](ical-generic.md).
 
-If you're using a different WordPress calendar plugin that provides an iCal feed, you may be able to use the [generic iCal importer](ical-generic.md) instead.
+Other WordPress calendar plugins that provide an iCal feed should also work with PlaceCal using the same method.
 
 ## The Events Calendar
 
