@@ -2,7 +2,7 @@
 
 PlaceCal supports importing events directly from Meetup URLs.
 
-Meetup have recently changed their format so our current importer is temporarily broken. In the meantime you can load it via the iCal importer
+Meetup have recently changed their format so our current importer is temporarily broken. In the meantime you can load it by manually selecting the iCal importer
 
 Sample group URL: `https://www.meetup.com/london-bisexual-women-games-wine-group`
 
