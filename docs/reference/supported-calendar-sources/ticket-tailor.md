@@ -8,7 +8,7 @@ PlaceCal can import events from a [Ticket Tailor](https://www.tickettailor.com/)
 
 1. Log in to your Ticket Tailor account
 2. Go to **Box Office > API Keys**
-3. Create a new API key (or use an existing one)
+3. Create a new API key with **read** permission on **Events** only
 4. Copy the key (it starts with `sk_`)
 
 ### 2. Add the calendar in PlaceCal
