@@ -15,6 +15,7 @@ By default PlaceCal supports [iCal/.ics](ical-generic.md) and [JSON-LD](json-ld-
 * [Resident Advisor](resident-advisor-ra.md) (RA)
 * [Squarespace](squarespace.md)
 * [Ticket Tailor](ticket-tailor.md) (requires API key)
+* [TicketSource](ticketsource.md)
 * [Ticketsolve](ticketsolve.md)
 * [WordPress](wordpress.md) (The Events Calendar plugin)
 
