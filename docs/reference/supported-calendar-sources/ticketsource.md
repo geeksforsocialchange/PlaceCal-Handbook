@@ -1,20 +1,18 @@
 # TicketSource
 
-> 🥉 **Bronze Integration** - This is a [fragile integration](README.md#-bronze---fragile) that scrapes data from web pages. It may break if TicketSource changes their website structure.
-
-PlaceCal can import events from TicketSource venue pages. TicketSource is a UK-based ticketing platform used by many theatres, arts centres, and community venues.
+PlaceCal can import events from TicketSource using their REST API. TicketSource is a UK-based ticketing platform used by many theatres, arts centres, and community venues.
 
 ## How to import from TicketSource
 
-To import events from TicketSource, you need the URL of your **venue page** (not individual event pages). This is typically in the format:
+You need two things to set up a TicketSource calendar in PlaceCal:
 
-* `https://www.ticketsource.co.uk/your-venue-name`
+1. **Your venue page URL** (not individual event pages), in the format:
+   * `https://www.ticketsource.co.uk/your-venue-name`
+2. **A TicketSource API key**. You can find this in your TicketSource account settings under API Keys.
 
-Simply paste this URL into the calendar field when [adding a calendar](../../how-to/add-a-calendar.md). PlaceCal will automatically detect it as a TicketSource source and import all upcoming events from that venue.
+Paste the venue URL into the URL field and the API key into the API key field when [adding a calendar](../../how-to/add-a-calendar.md). PlaceCal will automatically detect it as a TicketSource source and import all upcoming events from that venue.
 
 ## Information PlaceCal imports from TicketSource
-
-PlaceCal pulls the following from TicketSource events:
 
 * Event title
 * Description

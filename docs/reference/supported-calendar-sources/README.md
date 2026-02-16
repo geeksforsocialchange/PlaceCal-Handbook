@@ -14,6 +14,7 @@ By default PlaceCal supports [iCal/.ics](ical-generic.md) and [JSON-LD](json-ld-
 * [OutSavvy](outsavvy.md)
 * [Resident Advisor](resident-advisor-ra.md) (RA)
 * [Squarespace](squarespace.md)
+* [TicketSource](ticketsource.md)
 * [Ticketsolve](ticketsolve.md)
 
 ## Sources PlaceCal doesn't support
