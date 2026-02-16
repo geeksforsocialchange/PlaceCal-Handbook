@@ -29,6 +29,7 @@
   * [OutSavvy](reference/supported-calendar-sources/outsavvy.md)
   * [Resident Advisor (RA)](reference/supported-calendar-sources/resident-advisor-ra.md)
   * [Squarespace](reference/supported-calendar-sources/squarespace.md)
+  * [Ticket Tailor](reference/supported-calendar-sources/ticket-tailor.md)
   * [Ticketsolve](reference/supported-calendar-sources/ticketsolve.md)
 * [Glossary](reference/glossary/README.md)
   * [Calendars](reference/glossary/calendars.md)

@@ -14,8 +14,10 @@ By default PlaceCal supports [iCal/.ics](ical-generic.md) and [JSON-LD](json-ld-
 * [OutSavvy](outsavvy.md)
 * [Resident Advisor](resident-advisor-ra.md) (RA)
 * [Squarespace](squarespace.md)
+* [Ticket Tailor](ticket-tailor.md) (requires API key)
 * [TicketSource](ticketsource.md)
 * [Ticketsolve](ticketsolve.md)
+* [WordPress](wordpress.md) (The Events Calendar plugin)
 
 ## Sources PlaceCal doesn't support
 
@@ -30,9 +32,3 @@ Facebook have closed their APIs and make it practically impossible to scrape pub
 ### Fatsoma
 
 Fatsoma don't provide a suitable API or metadata output.&#x20;
-
-## Sources PlaceCal could support with additional resources&#x20;
-
-### TicketTailor
-
-TicketTailor have an API PlaceCal could use, with support to develop the importer.&#x20;

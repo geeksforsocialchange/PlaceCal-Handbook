@@ -1,10 +1,18 @@
 # Meetup
 
-PlaceCal supports importing events directly from Meetup URLs.&#x20;
+PlaceCal supports importing events directly from Meetup URLs.
 
-Sample URL: `https://www.meetup.com/qas-agile-learning-culture-meetup-group`
+Meetup have recently changed their format so our current importer is temporarily broken. In the meantime you can load it by manually selecting the iCal importer
 
-You can paste Meetup URLs into the URL field when [adding a calendar](../../how-to/add-a-calendar.md) to PlaceCal. It should auto-detect the Meetup link and import the Meetup group's events automatically.&#x20;
+Sample group URL: `https://www.meetup.com/london-bisexual-women-games-wine-group`
+
+To get the iCal feed just add on `/events/ical` to the end, so e.g:
+
+`https://www.meetup.com/london-bisexual-women-games-wine-group/events/ical`
+
+We will update this page soon once the underlying issue is fixed.
+
+See [adding a calendar](../../how-to/add-a-calendar.md) for the other steps.
 
 ## Information PlaceCal imports from Meetup
 
