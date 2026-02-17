@@ -6,14 +6,12 @@ PlaceCal can import events from TicketSource using their REST API. TicketSource 
 
 You need two things to set up a TicketSource calendar in PlaceCal:
 
-1. **Your venue page URL** (not individual event pages), in the format:
-   * `https://www.ticketsource.co.uk/your-venue-name`
-2. **A TicketSource API key**. To find this:
-   1. Log in to your [TicketSource](https://www.ticketsource.co.uk/) account
-   2. Go to **Settings** > **API**
-   3. Copy your API key using the copy button next to it
+1. **Your venue page URL** (not individual event pages), in the format: `https://www.ticketsource.co.uk/your-venue-name`
+2. **A TicketSource API key**. To find this, log in to your [TicketSource](https://www.ticketsource.co.uk/) account.
+3. Go to **Settings** > **API**
+4. Copy your API key using the copy button next to it
 
-   Your API key will look something like `skl-1a2b3c4d5e6f7a8b9c0d`. See [TicketSource's API integration guide](https://help.ticketsource.com/en/article/api-integration-10o5gun/) for more details.
+Your API key will look something like `skl-1a2b3c4d5e6f7a8b9c0d`. See [TicketSource's API integration guide](https://help.ticketsource.com/en/article/api-integration-10o5gun/) for more details.
 
 Paste the venue URL into the URL field and the API key into the API key field when [adding a calendar](../../how-to/add-a-calendar.md). PlaceCal will automatically detect it as a TicketSource source and import all upcoming events from that venue.
 
