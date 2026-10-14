@@ -16,6 +16,6 @@ This documentation has been collated to support [Partner admins](reference/gloss
 
 **If you'd like to start using PlaceCal in your community**, [get in touch](mailto:support@placecal.org), or check our[ list of existing PlaceCal sites](https://placecal.org/find-placecal) to see if there's already one where you are.
 
-For developers of other software interested on integrating with PlaceCal, there is also a section on using the [PlaceCal API](broken-reference).
+For developers of other software interested on integrating with PlaceCal, there is also a section on using the [PlaceCal API](https://handbook.placecal.org/placecal-api/data-structures/).
 
 Definitions of key terminology used in PlaceCal can be found in the [Glossary](reference/glossary/).
