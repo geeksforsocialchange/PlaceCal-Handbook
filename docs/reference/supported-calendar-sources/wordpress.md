@@ -39,3 +39,4 @@ Paste this URL into the calendar field when [adding a calendar](../../how-to/add
 * Address
 * URL
 * Online address (if an online event)
+* Event image (the event's featured image)
