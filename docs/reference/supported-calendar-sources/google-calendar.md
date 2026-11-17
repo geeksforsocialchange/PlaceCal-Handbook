@@ -12,4 +12,6 @@ You can find the **Public address in iCal format** on each Google calendar's Set
 
 Instructions on setting up a Google Calendar can be found in [Google's official documentation](https://support.google.com/calendar/answer/37095?hl=en).&#x20;
 
+To show an image with an event, attach it to the event in Google Calendar. PlaceCal can only fetch it if the file is shared in Google Drive as **Anyone with the link**.
+
 This generates an iCal feed, so see [iCal (generic)](ical-generic.md) for more information on how PlaceCal handles iCal sources.&#x20;

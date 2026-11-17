@@ -16,3 +16,4 @@ PlaceCal pulls the following from Eventbrite events:
 * Address
 * URL
 * Online address (if an online event)&#x20;
+* Event image
