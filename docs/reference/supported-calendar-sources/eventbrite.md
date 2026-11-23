@@ -6,14 +6,4 @@ You might need to add an Organisation to your Eventbrite account to get this URL
 
 ## Information PlaceCal imports from Eventbrite
 
-PlaceCal pulls the following from Eventbrite events:
-
-* Unique ID
-* Event title
-* Description
-* Start date and time
-* End date and time
-* Address
-* URL
-* Online address (if an online event)&#x20;
-* Event image
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from Eventbrite.

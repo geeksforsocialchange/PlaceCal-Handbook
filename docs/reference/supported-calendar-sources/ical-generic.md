@@ -10,12 +10,4 @@ We provide information about common services which handle this part for you beca
 
 ## Information PlaceCal imports from iCal sources
 
-* Unique ID
-* Event title
-* Description
-* Start date and time
-* End date and time
-* Address
-* URL
-* Online address (if an online event)&#x20;
-* Event image (the first attached image)
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from iCal sources. The event image is the first image attached to the event.

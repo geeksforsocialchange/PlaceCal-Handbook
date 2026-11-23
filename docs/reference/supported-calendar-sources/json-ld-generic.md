@@ -12,14 +12,4 @@ If `ld+json` is present, it means there is structured data on the site which Pla
 
 ## Information PlaceCal imports from JSON-LD sources
 
-In the below list, the names of the relevant fields in JSON-LD which PlaceCal looks for are listed in square brackets.&#x20;
-
-* Unique ID \[`url`]
-* Event title \[`name`]
-* Description \[`description`]
-* Start date and time \[`start_date`]
-* End date and time \[`end_date`]
-* Address \[`location.address`]
-* Event image \[`image`]
-
-Note that the generic JSON-LD importer does not import URL or online address information.&#x20;
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from JSON-LD sources. The event image comes from the event's `image`.

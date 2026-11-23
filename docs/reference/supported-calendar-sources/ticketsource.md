@@ -17,12 +17,7 @@ Paste the venue URL into the URL field and the API key into the API key field wh
 
 ## Information PlaceCal imports from TicketSource
 
-* Event title
-* Description
-* Start date and time
-* End date and time
-* Location/venue address
-* Event URL
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from TicketSource.
 
 ## Important notes
 

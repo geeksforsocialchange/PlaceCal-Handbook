@@ -21,15 +21,7 @@ If your Wix site uses a custom domain (e.g., https://www.myorganisation.com/even
 
 ## Information PlaceCal imports from Wix
 
-PlaceCal pulls the following from Wix events:
-
-* Unique ID
-* Event title
-* Description
-* Start date and time
-* End date and time
-* Location name and address
-* URL
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from Wix.
 
 ## Finding your events page URL
 

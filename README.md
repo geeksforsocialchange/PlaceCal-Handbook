@@ -10,4 +10,6 @@ This handbook is built using [Zensical](https://zensical.org/docs/get-started/),
 
 GitHub Actions uses Zensical to build and serve the site, and will serve all Markdown files from the docs directory
 
+The tables on the supported calendar sources page come from PlaceCal's own list of sources. Run `python scripts/sources_table.py` before building to fill them in, and don't commit the filled-in page. Set `SOURCES_URL` to read the list from somewhere other than placecal.org.
+
 See the Zensical [setup](https://zensical.org/docs/setup/basics/) pages for how to configure Zensical
