@@ -31,12 +31,4 @@ Paste this URL into the calendar field when [adding a calendar](../../how-to/add
 
 ## Information PlaceCal imports from WordPress
 
-* Unique ID
-* Event title
-* Description
-* Start date and time
-* End date and time
-* Address
-* URL
-* Online address (if an online event)
-* Event image (the event's featured image)
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from WordPress. The event image is the event's featured image.

@@ -18,4 +18,6 @@ This documentation has been collated to support [Partner admins](reference/gloss
 
 For developers of other software interested on integrating with PlaceCal, there is also a section on using the [PlaceCal API](https://handbook.placecal.org/placecal-api/data-structures/).
 
+**To see which calendars and ticketing platforms PlaceCal can read**, and what it imports from each, see [Supported calendar sources](reference/supported-calendar-sources/).
+
 Definitions of key terminology used in PlaceCal can be found in the [Glossary](reference/glossary/).

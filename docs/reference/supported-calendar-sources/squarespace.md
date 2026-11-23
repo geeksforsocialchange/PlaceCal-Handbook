@@ -8,14 +8,4 @@ Paste that URL into the calendar field and you should be good to go!
 
 ## Information PlaceCal imports from Squarespace
 
-* Unique ID
-* Event title
-* Description
-* Start date and time
-* End date and time&#x20;
-* URL
-* Event image
-
-### A note on how Squarespace handles location information&#x20;
-
-Squarespace stores location information as latitude and longitude rather than as a street address, which means that **this isn't able to be understood and matched to a street address by the PlaceCal importer**. If you want to use Squarespace as a source, you will need to use **Default location**, **No location** or **Online only** [when setting up the Calendar](../../how-to/add-a-calendar.md#where-should-location-information-for-this-calendar-come-from). This means Squarespace isn't a suitable source for a Partner which operates out of multiple physical locations, and we would recommend using an[ iCal source](ical-generic.md) instead.&#x20;
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from Squarespace. The event location is the address set on the event in Squarespace.

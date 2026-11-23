@@ -4,9 +4,4 @@ Ticketsolve is a legacy importer which has not been tested since upgrades have b
 
 ## Information PlaceCal imports from Ticketsolve
 
-* Unique ID
-* Event title
-* Description
-* Start time
-* If the event has tickets available
-* URL
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from Ticketsolve. The event location is the venue name only.

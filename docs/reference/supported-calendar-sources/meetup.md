@@ -16,11 +16,4 @@ See [adding a calendar](../../how-to/add-a-calendar.md) for the other steps.
 
 ## Information PlaceCal imports from Meetup
 
-* Unique ID&#x20;
-* Event title
-* Description
-* Start time and date
-* End time and date (calculated by adding the event duration to the start date)&#x20;
-* Address
-* URL&#x20;
-* Online address (if it's an online event)&#x20;
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from Meetup.

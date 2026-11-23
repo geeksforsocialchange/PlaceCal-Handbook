@@ -2,22 +2,20 @@
 
 By default PlaceCal supports [iCal/.ics](ical-generic.md) and [JSON-LD](json-ld-generic.md) data sources. PlaceCal also supports specific ticketing and event platforms which provide an API for integrations. These are listed below. Instructions for setting up a calendar feed which PlaceCal can import can be found by clicking through on the source you would like to use.&#x20;
 
-## List of supported sources
+## Supported sources
 
-* [Airtable](airtable.md)
-* [Dice.fm](dice.fm.md)
-* [Eventbrite](eventbrite.md)
-* [Google Calendar](google-calendar.md)
-* [iCloud Calendar](icloud-calendar.md)
-* [Meetup](meetup.md)
-* [Outlook 365](outlook-365.md)
-* [OutSavvy](outsavvy.md)
-* [Resident Advisor](resident-advisor-ra.md) (RA)
-* [Squarespace](squarespace.md)
-* [Ticket Tailor](ticket-tailor.md) (requires API key)
-* [TicketSource](ticketsource.md)
-* [Ticketsolve](ticketsolve.md)
-* [WordPress](wordpress.md) (The Events Calendar plugin)
+<!-- sources-table:start -->
+
+This table is filled in from PlaceCal's own list of calendar sources when the handbook is built. See `scripts/sources_table.py`.
+
+<!-- sources-table:end -->
+
+## Setup guides
+
+Each source in the tables links to its setup guide. These services publish their events in a standard format, so PlaceCal reads them with one of the generic sources:
+
+* Read as [iCal](ical-generic.md): [Airtable](airtable.md), [Google Calendar](google-calendar.md), [iCloud Calendar](icloud-calendar.md), [Outlook 365](outlook-365.md), [WordPress](wordpress.md) (The Events Calendar plugin)
+* Read as [JSON-LD](json-ld-generic.md): [Dice.fm](dice.fm.md)
 
 ## Sources PlaceCal doesn't support
 

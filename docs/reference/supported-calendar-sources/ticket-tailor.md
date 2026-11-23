@@ -21,14 +21,7 @@ PlaceCal will then import your published events automatically.
 
 ## Information PlaceCal imports from Ticket Tailor
 
-* Unique ID
-* Event title
-* Description
-* Start date and time
-* End date and time
-* Venue name and postcode
-* Event URL
-* Event image (the header image)
+See [what each source imports](README.md#what-each-source-imports) for the information PlaceCal takes from Ticket Tailor. The event location is the venue name and postcode, and the event image is the event's header image.
 
 ## Notes
 
