@@ -1,5 +1,7 @@
 # Add a Calendar
 
+A Calendar tells PlaceCal where to import a Partner's events from: the calendar or ticketing platform they already use. Before you start, check the [supported calendar sources](../reference/supported-calendar-sources/) to see which ones PlaceCal can read, what it imports from each, and how to set each one up.
+
 To add a Calendar, click the **Add New Calendar** button. This can be found on the **Calendars** page of the admin interface, or at the top of the **Dashboard**.&#x20;
 
 If you can't see the **Add New Calendar** button, you may not have the correct account permissions. &#x20;
