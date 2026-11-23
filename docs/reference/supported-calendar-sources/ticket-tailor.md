@@ -28,6 +28,7 @@ PlaceCal will then import your published events automatically.
 * End date and time
 * Venue name and postcode
 * Event URL
+* Event image (the header image)
 
 ## Notes
 

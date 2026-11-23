@@ -30,7 +30,6 @@ PlaceCal pulls the following from Wix events:
 * End date and time
 * Location name and address
 * URL
-* Event image
 
 ## Finding your events page URL
 

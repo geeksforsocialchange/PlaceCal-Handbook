@@ -14,6 +14,7 @@ Paste that URL into the calendar field and you should be good to go!
 * Start date and time
 * End date and time&#x20;
 * URL
+* Event image
 
 ### A note on how Squarespace handles location information&#x20;
 

@@ -18,3 +18,4 @@ We provide information about common services which handle this part for you beca
 * Address
 * URL
 * Online address (if an online event)&#x20;
+* Event image (the first attached image)

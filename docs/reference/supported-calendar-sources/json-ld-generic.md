@@ -20,5 +20,6 @@ In the below list, the names of the relevant fields in JSON-LD which PlaceCal lo
 * Start date and time \[`start_date`]
 * End date and time \[`end_date`]
 * Address \[`location.address`]
+* Event image \[`image`]
 
 Note that the generic JSON-LD importer does not import URL or online address information.&#x20;
